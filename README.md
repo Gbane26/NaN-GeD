@@ -1,1 +1,1 @@
-# NaN-GeD
+# dashboard-nan
